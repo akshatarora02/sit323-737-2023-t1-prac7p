@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: task7p
-        image: akshatarora/sit737:task5
+        image: akshatarora/sit737:task7
         ports:
         - containerPort: 3000
